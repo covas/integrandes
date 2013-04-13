@@ -6,5 +6,6 @@ public class otra {
 		//un cambio
 		//otro cambio
 		System.out.println(" test 2");
+		System.out.println( " nuevo cambio coleto");
 	}
 }
